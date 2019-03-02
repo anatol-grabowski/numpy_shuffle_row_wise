@@ -1,4 +1,5 @@
-build
+build/
+.ipynb_checkpoints/
 *.c
 *.so
 *.html
