@@ -8,6 +8,6 @@ test:
 	python main.py
 
 html:
-	cython -a helloworld.pyx
+	cython -a *.pyx
 
 .PHONY: build clean test html
